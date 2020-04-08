@@ -1,2 +1,2 @@
 # DBMSProjectY3S2
-A dental practice database that is constructed using WAMP that can be deployed on Google Cloud.
+A dental practice database that is constructed using WAMP and mySQL that can be deployed locally on Google Cloud.
